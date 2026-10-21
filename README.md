@@ -9,7 +9,7 @@ Households and individual consumers are significantly impacted by the lack of pr
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
-- [Sprint Log] (docs/sprint-log.md)
+- [Sprint Log](docs/sprint-log.md)
 
 ## Project Structure
 
