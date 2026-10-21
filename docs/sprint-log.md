@@ -8,9 +8,9 @@ By the end of Sprint 1, all user stories will have acceptance criteria, requirem
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | Add acceptance criteria to each user story |
-| #2 | | Number the requirements and link each story to one |
-| #3 | | Add structure and roadmap to the README |
+| #1 | Add acceptance criteria to each user story |  |
+| #2 | Number the requirements and link each story to one |  |
+| #3 | Add structure and roadmap to the README |  |
 
 ### Daily standup notes
 - Standup 1: I will first add acceptance criteria to the user stories. I may be blocked if I need to clarify the project requirements.
