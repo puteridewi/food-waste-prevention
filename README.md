@@ -10,6 +10,8 @@ Households and individual consumers are significantly impacted by the lack of pr
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 - [Sprint Log](docs/sprint-log.md)
+- [Machine Learning Technology](docs/machine-learning-technology.md)
+
 
 ## Project Structure
 
