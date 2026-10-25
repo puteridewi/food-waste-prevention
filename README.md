@@ -41,7 +41,15 @@ food-waste-prevention/
 - [ ] Test the system against its functional and non-functional requirements.
 
 ## Status
-Planning and requirements documentation (CSC649, Week 3)
+Planning and Requirements Documentation
+
+Completed:
+- Problem statement and project scope
+- Functional and non-functional requirements
+- User stories and acceptance criteria
+- Requirement numbering and traceability
+- Repository structure and project roadmap
+- Sprint 1 review and retrospective
 
 ## Author
 Puteri Saidatina Fatimah Dewi Sukma binti Iazmee
